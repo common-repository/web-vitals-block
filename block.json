@@ -1,0 +1,14 @@
+{
+	"name": "web-vitals/web-vitals-block",
+	"title": "Web Vitals Block",
+	"category": "widgets",
+	"icon": "chart-bar",
+	"description": "Display web vitals in a block.",
+	"textdomain": "web-vitals-block",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
